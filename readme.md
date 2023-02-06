@@ -31,8 +31,6 @@ The idea of creating this game came from <b>Cyberbionic Systematics</b> who actu
 Basically to get started all you need is to clone the repo <a href="https://github.com/norka2233/mario_game_python" target="_blank">Mario</a>.
 All needed infrastructure is ready. For the correct launch of the program <b> Python 3+ </b> version is required.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ### Installation
 
