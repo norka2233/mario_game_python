@@ -18,7 +18,6 @@ I believe almost everyone knows what the game Mario is and used to or still play
 The idea of creating this game came from <b>Cyberbionic Systematics</b> who actually created learning videos of the creation.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### Built With
@@ -26,13 +25,13 @@ The idea of creating this game came from <b>Cyberbionic Systematics</b> who actu
 ####- Python 3+
 ####- module pygame
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting Started
 
 Basically to get started all you need is to clone the repo <a href="https://github.com/norka2233/mario_game_python" target="_blank">Mario</a>.
 All needed infrastructure is ready. For the correct launch of the program <b> Python 3+ </b> version is required.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### Installation
