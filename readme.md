@@ -22,8 +22,8 @@ The idea of creating this game came from <b>Cyberbionic Systematics</b> who actu
 
 ### Built With
 
-####- Python 3+
-####- module pygame
+- Python 3+
+- Python module pygame
 
 
 ## Getting Started
