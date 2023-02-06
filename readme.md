@@ -17,14 +17,11 @@
 I believe almost everyone knows what the game Mario is and used to or still plays it.
 The idea of creating this game came from <b>Cyberbionic Systematics</b> who actually created learning videos of the creation.
 
-
-
-
 ### Built With
 
 - Python 3+
 - Python module pygame
-
+=
 
 ## Getting Started
 
@@ -50,5 +47,3 @@ All needed infrastructure is ready. For the correct launch of the program <b> Py
 
 - Email - <i>eleonoramatviiv@gmail.com</i>
 - LinkdIn - https://www.linkedin.com/in/eleonora-matviiv-4b2751188/
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
