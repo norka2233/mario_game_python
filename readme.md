@@ -48,6 +48,7 @@ All needed infrastructure is ready. For the correct launch of the program <b> Py
 
 ## Contact
 
-Your Name - <i>eleonoramatviiv@gmail.com</i>
+- Email - <i>eleonoramatviiv@gmail.com</i>
+- LinkdIn - https://www.linkedin.com/in/eleonora-matviiv-4b2751188/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
